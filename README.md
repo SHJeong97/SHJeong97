@@ -19,9 +19,9 @@
 🔐 **Digital Forensics:** 
 
 🛠️ **Cryptography & Secure Development**  
-🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt  
-📝 **Secure Coding:** OWASP Top 10, SAST/DAST  
-🌍 **Cloud Security:** AWS Security Hub, Azure Sentinel  
+🔑 **Encryption & Hashing:** OpenSSL, GPG, bcrypt (..ing)
+📝 **Secure Coding:** OWASP Top 10, SAST/DAST  (..ing)
+🌍 **Cloud:** AWS, Azure 
 
 📀 **Operating Systems & Networks**  
 🐧 **Linux:** 
