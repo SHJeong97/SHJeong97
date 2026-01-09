@@ -31,19 +31,11 @@
 
 ### 🏅 Certifications
 
-## 🎓 Certifications
-
 [![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?logo=cisco&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
 [![Splunk Core Certified User](https://img.shields.io/badge/Splunk-Core%20Certified%20User-000000?logo=splunk&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
 [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
-
-<a href="https://www.credly.com/users/seunghun-jeong">
-  <img src="https://img.shields.io/badge/Credly-Profile-FF6B00?logo=credly&logoColor=white"/>
-</a>
-
-
 
 ---
 
