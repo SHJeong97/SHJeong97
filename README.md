@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Imran Alam - Cybersecurity Analyst & Ethical Hacker 🔐</h1>
+<h1 align="center">🛡️ SeungHun Jeong - Cybersecurity Analyst 🔐</h1>
 <h3 align="center">"Securing the digital world, one vulnerability at a time!"</h3>
 
 
@@ -10,11 +10,10 @@
 ---
 
 ## 🚀 About Me  
-🔹 **Ethical Hacker | Penetration Tester | Cybersecurity Analyst**  
-🔹 Expert in **Web Security, Network Defense, and Red Teaming**  
+🔹 **Passionate Leaner | Cybersecurity Analyst**  
+🔹 Expert in **Network Defense, and blue Teaming**  
 🔹 Passionate about **Threat Intelligence, SIEM, and Digital Forensics**  
-🔹 Strong skills in **OSINT, Incident Response, and Secure Coding**  
-🔹 **Cybersecurity Trainer & Speaker** 🎤  
+🔹 Strong skills in **OSINT, and Incident Response**   
 
 ---
 
