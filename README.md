@@ -27,6 +27,10 @@
 🐧 **Linux:** 
 🖥️ **Windows Security:** PowerShell, Sysinternals  
 🌐 **Network Security:** Nmap
+
+🛠️Certifications
+[![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?logo=cisco&logoColor=white)](https://www.credly.com/)
+
 ---
 
 ## 🔧 Tools & Technologies  
