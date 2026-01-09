@@ -30,9 +30,11 @@
 
 🛠️Certifications
 
+### 🏅 Certifications
 <a href="https://www.credly.com/users/seunghun-jeong">
-  <img src="PASTE_BADGE_IMAGE_URL_HERE" width="90"/>
+  <img src="https://img.shields.io/badge/Credly-Profile-FF6B00?logo=credly&logoColor=white"/>
 </a>
+
 
 
 ---
