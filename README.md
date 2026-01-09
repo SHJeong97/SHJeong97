@@ -1,5 +1,5 @@
 <h1 align="center">🛡️ SeungHun Jeong - Cybersecurity Analyst 🔐</h1>
-<h3 align="center">"Securing the digital world, one vulnerability at a time!"</h3>
+<h3 align="center">""</h3>
 
 
 <p align="center">
