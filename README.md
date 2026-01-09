@@ -38,7 +38,7 @@
 ## 🔧 Tools & Technologies  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,aws,azure,docker,kubernetes,git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,powershell,python,aws,azure" />
 </p>
 
 ---
