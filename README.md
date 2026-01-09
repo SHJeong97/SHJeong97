@@ -29,7 +29,11 @@
 🌐 **Network Security:** Nmap
 
 🛠️Certifications
-[![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?logo=cisco&logoColor=white)](https://www.credly.com/)
+
+<a href="https://www.credly.com/users/seunghun-jeong">
+  <img src="PASTE_BADGE_IMAGE_URL_HERE" width="90"/>
+</a>
+
 
 ---
 
