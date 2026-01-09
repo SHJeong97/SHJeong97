@@ -53,18 +53,13 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-<a href="https://x.com/technosnag"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/technosnag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.youtube.com/c/technosnag"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="mailto:technosnag@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="[https://www.linkedin.com/in/technosnag/](https://www.linkedin.com/in/seunghun-jeong-55b52b222/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🎯 Fun Fact  
-> _"There are two types of companies: those who have been hacked and those who don’t know they have been hacked yet!"_ 🚀  
+> __ 🚀  
 
 ---
 
-🔥 **Want to Collaborate?**  
-If you’re interested in **Cybersecurity, Ethical Hacking, or Open Source Security Projects**, let’s connect and **secure the digital world together!** 🛡️  
