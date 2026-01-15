@@ -47,17 +47,11 @@
 
 ---
 
-### 📊 **GitHub Stats**
-(https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
 <a href="[https://www.linkedin.com/in/technosnag/](https://www.linkedin.com/in/seunghun-jeong-55b52b222/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="[https://www.gmil.com](https://www.linkedin.com/in/seunghun-jeong-55b52b222/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
