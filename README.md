@@ -41,7 +41,6 @@
 | Sentinel Detection + Incident Workflow | Analytics rule → incident → response steps | Sentinel, KQL, Log Analytics |
 | Hybrid Identity (Lab) | On-prem AD sync concepts + identity lifecycle | AD DS, Entra Connect (lab) |
 
-> ✅ Tip: link each project to its repo and include screenshots + “Results & Validation”.
 
 ---
 
@@ -81,4 +80,4 @@
 ---
 
 ### ⚡ Fun Fact
-> I’m building an Identity-first Azure lab and documenting everything step-by-step (screenshots + validation).
+> I’m building an Identity-first Azure lab and documenting everything step-by-step 
