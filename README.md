@@ -55,8 +55,8 @@
 [![Microsoft Azure AZ-500](https://img.shields.io/badge/Microsoft-AZ--500-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![Microsoft Azure SC-300](https://img.shields.io/badge/Microsoft-SC--300-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
-[![Microsoft Azure AZ-800](https://img.shields.io/badge/Microsoft-AZ--800-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
-[![Microsoft Azure AZ-801](https://img.shields.io/badge/Microsoft-AZ--801-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
+[![Microsoft Azure MS-102](https://img.shields.io/badge/Microsoft-MS--102-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
+[![Microsoft Azure MD-102](https://img.shields.io/badge/Microsoft-MD--102-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
 
 ---
 
