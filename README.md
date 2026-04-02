@@ -52,7 +52,7 @@
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![Microsoft Azure AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
-[![Microsoft Azure AZ-500](https://img.shields.io/badge/Microsoft-AZ--500-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
+[![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![Microsoft Azure SC-300](https://img.shields.io/badge/Microsoft-SC--300-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![Microsoft Azure MS-102](https://img.shields.io/badge/Microsoft-MS--102-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
@@ -62,7 +62,7 @@
 
 ## 🔧 Tools & Tech
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,powershell,bash,windows,linux,python,aws" />
+  <img src="https://skillicons.dev/icons?i=azure,powershell,bash,windows,linux" />
 </p>
 
 ---
