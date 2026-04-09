@@ -50,7 +50,7 @@
 [![Splunk Core Certified User](https://img.shields.io/badge/Splunk-Core%20Certified%20User-000000?logo=splunk&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
-[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
+[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)    
 [![Microsoft Azure AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)   
 [![Microsoft Azure SC-300](https://img.shields.io/badge/Microsoft-SC--300-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
