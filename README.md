@@ -26,8 +26,6 @@
 - Monitoring: **Azure Monitor, Log Analytics**, alerting
 
 ### 🛡️ Security Operations (supporting skills)
-- **Microsoft Sentinel (SIEM)**: data connectors, analytics rules, incident triage
-- **Defender for Cloud**: secure score, recommendations, baseline hardening
 - Splunk (Core Certified User), Wireshark, Nmap
 
 ---
@@ -55,7 +53,6 @@
 [![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)   
 [![Microsoft Azure SC-300](https://img.shields.io/badge/Microsoft-SC--300-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
 [![Microsoft Azure MS-102](https://img.shields.io/badge/Microsoft-MS--102-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)  
-[![Microsoft Azure MD-102](https://img.shields.io/badge/Microsoft-MD--102-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
 
 ---
 
