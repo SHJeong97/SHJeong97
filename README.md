@@ -1,178 +1,162 @@
-<h1 align="center">☁️🔐 SeungHun Jeong — Microsoft Cloud | IAM | Azure Administrator</h1>
-<h3 align="center">Microsoft Entra ID • Microsoft 365 Administration • Azure Infrastructure • Hybrid Identity</h3>
+# SeungHun Jeong — Microsoft Cloud | IAM | Microsoft 365 | Azure | Hybrid Infrastructure
+
+### Microsoft Entra ID • Microsoft 365 Administration • Azure Administration • Windows Server • Hybrid Identity • Security Administration
+
+I am an IT professional with 4+ years of technical support, troubleshooting, team leadership, and systems administration experience. My current focus is Microsoft cloud administration, identity and access management, Microsoft 365 administration, hybrid infrastructure, and security operations support.
+
+This GitHub profile is organized to show practical, hands-on work across Microsoft Entra ID, Microsoft 365, Azure administration, Windows Server, Active Directory, Conditional Access, privileged access governance, Defender for Office 365, Purview, and PowerShell-based validation.
 
 ---
 
-## 👋 About Me
+## Target Roles
 
-I am an IT professional with 4+ years of experience in technical support, troubleshooting, team leadership, and systems administration. My current focus is building a career around **Microsoft cloud administration, identity and access management, and hybrid infrastructure**.
-
-I have hands-on experience building portfolio labs with **Microsoft Entra ID, Microsoft 365, Azure administration, Conditional Access, RBAC, Exchange Online, Microsoft Purview, Defender, and hybrid AD concepts**.
-
-My goal is to move into roles such as:
-
-- Azure Administrator
+- IAM Analyst
+- IAM Administrator
+- Identity Administrator
+- Microsoft Entra ID Administrator
 - Microsoft 365 Administrator
-- IAM / Identity Administrator
-- Entra ID Administrator
-- Systems Administrator
-- Cloud Support Engineer
+- Azure Administrator
 - Security Administrator
+- Systems Administrator
+- Cloud Administrator
+- Cloud Support Engineer
+- IT Support Engineer
 
 ---
 
-## 🎯 Current Career Focus
+## Best Portfolio Projects to Review First
 
-### 🔐 Identity & Access Management
+These are the strongest projects for hiring review. They are written to show business context, technical implementation, validation evidence, rollback planning, and operational documentation.
+
+| Priority | Project | What It Demonstrates | Best-Aligned Roles |
+|---:|---|---|---|
+| 1 | [Enterprise Microsoft 365 Hybrid Security & Governance Portfolio](https://github.com/SHJeong97/Azure/tree/main/Project/hybrid-windows-server-enterprise-modernization) | Connected Microsoft cloud administration project covering hybrid identity, Microsoft 365, Conditional Access, privileged access governance, Defender for Office 365, Purview, audit, and privacy-safe evidence | IAM Administrator, Microsoft 365 Administrator, Security Administrator, Cloud Support Engineer |
+| 2 | [Conditional Access, MFA, and Identity Protection Baseline](https://github.com/SHJeong97/Azure/tree/main/Project/hybrid-windows-server-enterprise-modernization/projects/06-entra-conditional-access-mfa-identity-protection) | Conditional Access rollout, MFA readiness, pilot scoping, break-glass exclusion, report-only validation, rollback planning, and sanitized sign-in evidence | IAM Analyst, Entra ID Administrator, Security Administrator |
+| 3 | [PIM, Admin Roles, and Access Reviews](https://github.com/SHJeong97/Azure/tree/main/Project/hybrid-windows-server-enterprise-modernization/projects/07-pim-admin-roles-access-reviews) | Privileged Identity Management, admin role governance, standing privilege review, activation validation, audit evidence, and access review workflow | IAM Administrator, Identity Administrator, Security Administrator |
+| 4 | [Defender for Office 365 Email Security Baseline](https://github.com/SHJeong97/Azure/tree/main/Project/hybrid-windows-server-enterprise-modernization/projects/08-defender-office365-email-security) | Anti-phishing, Safe Links, Safe Attachments, quarantine workflow, mail-flow validation, threat submission workflow, and privacy-safe message trace evidence | Microsoft 365 Administrator, Security Administrator, Cloud Support Engineer |
+| 5 | [Hybrid Windows Server Core Infrastructure Foundation](https://github.com/SHJeong97/Azure/tree/main/Project/hybrid-windows-server-enterprise-modernization/projects/01-hybrid-windows-server-core-infrastructure) | AD DS, DNS, OU structure, admin groups, service accounts, RSAT, Group Policy tooling, DC health validation, SYSVOL/NETLOGON validation, and infrastructure documentation | Systems Administrator, Cloud Support Engineer, Azure Administrator |
+
+---
+
+## Main Technical Portfolio
+
+### Microsoft Cloud, Identity, and Security Portfolio
+
+Repository: [Azure](https://github.com/SHJeong97/Azure)
+
+This is my primary technical portfolio. It contains structured Microsoft cloud and hybrid infrastructure projects, including:
+
+- Microsoft Entra ID administration
+- Conditional Access and MFA
+- Privileged Identity Management
+- Microsoft 365 tenant administration
+- Exchange Online administration
+- Defender for Office 365 security baseline
+- Microsoft Purview compliance governance
+- Windows Server, AD DS, DNS, and Group Policy foundations
+- Azure infrastructure and governance practice
+- PowerShell-based validation and evidence collection
+
+---
+
+## Core Skills Demonstrated
+
+### Identity and Access Management
 
 - Microsoft Entra ID user, group, and role administration
-- Conditional Access policy design and validation
-- MFA, SSPR, authentication methods, and secure access controls
-- Role-Based Access Control and least privilege access
-- Identity Governance concepts including access reviews and PIM
-- Enterprise applications, app registrations, and service principals
-- Hybrid identity concepts with Active Directory and Entra Connect
+- Conditional Access policy planning and validation
+- MFA readiness and authentication method review
+- Emergency access / break-glass account protection
+- Privileged access governance with PIM concepts
+- Admin role inventory and standing privilege review
+- Access review workflow documentation
+- Least privilege and role-based access control
 
-### ☁️ Azure Administration
+### Microsoft 365 Administration
 
-- Azure subscriptions, resource groups, tags, and locks
-- Virtual machines, VNets, NSGs, NICs, public IPs, and Bastion
-- Azure RBAC role assignments and scope-based permissions
-- Azure Monitor, Log Analytics, alerts, and activity logs
-- Azure Policy and governance-focused configuration
-- Infrastructure documentation and validation through screenshots, scripts, and README files
+- Microsoft 365 tenant administration
+- Exchange Online mailbox and shared mailbox validation
+- Mail flow and message trace review
+- Defender for Office 365 baseline configuration
+- Anti-phishing, Safe Links, and Safe Attachments validation
+- Quarantine workflow documentation
+- Microsoft Purview sensitivity label and compliance governance documentation
+- Audit and eDiscovery workflow documentation
 
-### 🏢 Microsoft 365 Administration
+### Azure and Hybrid Infrastructure
 
-- Microsoft 365 admin center administration
-- Exchange Online mailbox, shared mailbox, and mail flow configuration
-- Microsoft Defender for Office 365 concepts
-- Microsoft Purview retention, DLP, and compliance-focused labs
-- User lifecycle management, licensing, and admin role delegation
-- Security baseline and tenant hardening concepts
+- Azure resource group and infrastructure organization
+- Azure VM-based lab infrastructure
+- Virtual network and NSG concepts
+- Azure RBAC and management-scope permissions
+- Windows Server administration
+- Active Directory Domain Services
+- DNS architecture and validation
+- Group Policy management tooling
+- Hybrid identity planning and cloud synchronization concepts
 
-### 🖥️ On-Prem / Hybrid Infrastructure
+### Documentation, Validation, and Operations
 
-- Windows Server and Active Directory Domain Services
-- DNS, DHCP, Group Policy, and domain-joined device concepts
-- Hybrid identity lab planning with Entra ID integration
-- PowerShell-based administration and validation
-- Real-world documentation for repeatable infrastructure builds
-
----
-
-## 🧪 Featured Portfolio Projects
-
-| Project Area | What It Demonstrates | Technologies |
-|---|---|---|
-| Entra ID Conditional Access Lab | MFA enforcement, access control testing, policy validation | Entra ID, Conditional Access, MFA |
-| Azure RBAC & Least Privilege Lab | Scoped permissions, role assignment, secure admin access | Azure RBAC, Entra ID |
-| Microsoft 365 Admin Project | User lifecycle, Exchange Online, shared mailbox, mail flow | M365 Admin Center, Exchange Online |
-| Microsoft Purview Compliance Lab | Retention, DLP, sensitivity concepts, compliance controls | Purview, Microsoft 365 |
-| Defender / Email Security Lab | Anti-phishing, quarantine, mail protection concepts | Defender for Office 365, Exchange Online |
-| Hybrid Identity Lab | On-prem AD with cloud identity integration planning | AD DS, Entra ID, Entra Connect |
-| Azure Infrastructure Lab | VM, VNet, NSG, monitoring, and governance configuration | Azure, PowerShell, Azure CLI |
-| Security Monitoring Lab | Log collection, alerting, and investigation workflow | Log Analytics, Sentinel, KQL |
+- README-based technical documentation
+- Implementation walkthroughs
+- Validation walkthroughs
+- Rollback plans
+- Risk registers
+- Evidence folders
+- Sanitized screenshots and CSV outputs
+- PowerShell validation commands
+- Privacy-safe documentation practices
 
 ---
 
-## 📂 GitHub Portfolio Structure
+## Certifications
+
+### Microsoft
+
+- Microsoft Certified: Azure Fundamentals — AZ-900
+- Microsoft Certified: Azure Administrator Associate — AZ-104
+- Microsoft Certified: Identity and Access Administrator Associate — SC-300
+- Microsoft 365 Certified: Administrator Expert — MS-102
+- Microsoft Certified: Windows Server Hybrid Administrator Associate — AZ-800 / AZ-801
+
+### Networking and Security
+
+- Cisco Certified Network Associate — CCNA
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA CySA+
+- Splunk Core Certified User
+
+---
+
+## Repository Structure
 
 | Repository | Purpose |
 |---|---|
-| `Azure / Project` | Real-world portfolio projects with full implementation steps |
-| `Azure / Practice` | Practice labs, command testing, and learning exercises |
-| `PowerShell Scripts` | Automation, validation, and admin support scripts |
-| `Documentation` | README-based technical writeups and project evidence |
+| [Azure](https://github.com/SHJeong97/Azure) | Primary portfolio for Microsoft cloud, IAM, Azure, Microsoft 365, Windows Server, and hybrid security projects |
+| [PowerShell](https://github.com/SHJeong97/PowerShell) | PowerShell practice and administration scripts for Windows/system support tasks |
+| [Linux-shell-bash](https://github.com/SHJeong97/Linux-shell-bash) | Linux, shell, Bash, and cybersecurity practice |
+| [Cousera_Google_cybersecurity_courses](https://github.com/SHJeong97/Cousera_Google_cybersecurity_courses) | Archived cybersecurity coursework and early learning documentation |
 
 ---
 
-## 🏅 Certifications
+## Hiring-Relevant Strengths
 
-[![Microsoft Azure AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
-[![Microsoft Azure AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
-[![Microsoft SC-300](https://img.shields.io/badge/Microsoft-SC--300-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
-[![Microsoft MS-102](https://img.shields.io/badge/Microsoft-MS--102-0078D4?logo=microsoft&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
-
-[![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?logo=cisco&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
-[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
-[![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA0029?logo=comptia&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
-[![Splunk Core Certified User](https://img.shields.io/badge/Splunk-Core%20Certified%20User-000000?logo=splunk&logoColor=white)](https://www.credly.com/users/seunghun-jeong)
+- Built a connected Microsoft cloud and hybrid administration portfolio rather than isolated screenshots.
+- Documented projects with implementation steps, validation evidence, rollback planning, and operational notes.
+- Focused on realistic administrator workflows: identity governance, secure access, email security, compliance, and hybrid infrastructure.
+- Used privacy-safe documentation practices by avoiding public IP exposure, private mailbox content, audit payloads, and sensitive tenant details.
+- Combined certification knowledge with hands-on project execution and GitHub documentation.
 
 ---
 
-## 🔧 Tools & Technologies
+## Current Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,powershell,bash,windows,linux,git,github,vscode" />
-</p>
-
-### Microsoft Cloud
-
-- Microsoft Entra ID
-- Microsoft 365 Admin Center
-- Exchange Online
-- Microsoft Purview
-- Microsoft Defender
-- Azure Portal
-- Azure Monitor
-- Log Analytics
-- Microsoft Sentinel
-
-### Infrastructure & Administration
-
-- Windows Server
-- Active Directory Domain Services
-- DNS / DHCP
-- Group Policy
-- Azure Virtual Machines
-- Virtual Networks
-- Network Security Groups
-- PowerShell
-- Azure CLI
-
-### Security & Troubleshooting
-
-- IAM and least privilege access
-- Conditional Access testing
-- MFA and SSPR configuration
-- Mail security and quarantine workflows
-- Log review and alert investigation
-- Wireshark
-- Nmap
-- Splunk
+I am continuing to improve this portfolio for Microsoft cloud, IAM, Microsoft 365, Azure administration, and systems administration roles. My strongest current areas are Microsoft Entra ID, Conditional Access, Microsoft 365 administration, Defender for Office 365, Purview governance documentation, Windows Server, AD DS, DNS, Group Policy, and hybrid identity foundations.
 
 ---
 
-## 📌 What I Am Building Toward
+## Connect
 
-I am building a portfolio that proves I can do more than pass certifications. My focus is on creating realistic Microsoft cloud and hybrid infrastructure projects that show:
-
-- Why a configuration is needed
-- How it is implemented
-- How it is validated
-- What business or security problem it solves
-- How the environment can be documented for real IT operations
-
----
-
-## 🌐 Connect
-
-<div align="center">
-  <a href="mailto:hm25200@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/seunghun-jeong-55b52b222/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SHJeong97">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-### ⚡ Current Focus
-
-> Building a job-ready Microsoft cloud portfolio focused on Identity, Microsoft 365 administration, Azure infrastructure, and hybrid AD environments.
+- LinkedIn: [SeungHun Jeong](https://www.linkedin.com/in/seunghun-jeong-55b52b222/)
+- GitHub: [SHJeong97](https://github.com/SHJeong97)
